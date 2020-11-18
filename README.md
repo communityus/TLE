@@ -23,3 +23,9 @@ These are the folders: (a license file is found in the early commits)
 - https://github.com/communityus/misc
 - https://github.com/communityus/scripts
 
+[metion /var/ folder license]
+### TLE Client
+The files in the root folder of /var/www/public/ and sub folders /css/ /js/ /misc/ /server/
+- These are non-copyleft files with LICENSE found in root folder here:
+- https://github.com/communityus/var/blob/main/www/public/LICENSE
+- commit: https://github.com/communityus/var/commit/6c3a04ace02619e4cd0bc7a56f40d1cf2f2b2da7
