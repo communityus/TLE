@@ -1,4 +1,4 @@
-Licenses
+### Licenses
 There is software behind TLE and other CommunityUs projects soon to arrive that is protected by GPL. Other parts are non-copyleft and less restrictive.
 
 It is important to respect the wishes of the developers and people behind the respective projects.
