@@ -49,3 +49,6 @@
 [submodule "config"]
 	path = config
 	url = git@github.com:communityus/config.git
+[submodule ".vs"]
+	path = .vs
+	url = git@github.com:communityus/.vs.git
