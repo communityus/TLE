@@ -1,0 +1,24 @@
+[submodule "bin"]
+	path = bin
+	url = git@github.com:communityus/bin.git
+[submodule "docker"]
+	path = docker
+	url = git@github.com:communityus/docker.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:communityus/docs.git
+[submodule "etc"]
+	path = etc
+	url = git@github.com:communityus/etc.git
+[submodule "info"]
+	path = info
+	url = git@github.com:communityus/info.git
+[submodule "lib"]
+	path = lib
+	url = git@github.com:communityus/lib.git
+[submodule "t"]
+	path = t
+	url = git@github.com:communityus/t.git
+[submodule "var"]
+	path = var
+	url = git@github.com:communityus/var.git
