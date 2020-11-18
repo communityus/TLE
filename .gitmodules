@@ -22,3 +22,15 @@
 [submodule "var"]
 	path = var
 	url = git@github.com:communityus/var.git
+[submodule "server"]
+	path = server
+	url = git@github.com:communityus/server.git
+[submodule "css"]
+	path = css
+	url = git@github.com:communityus/css.git
+[submodule "js"]
+	path = js
+	url = git@github.com:communityus/js.git
+[submodule "misc"]
+	path = misc
+	url = git@github.com:communityus/misc.git
