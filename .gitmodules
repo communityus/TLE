@@ -34,3 +34,18 @@
 [submodule "misc"]
 	path = misc
 	url = git@github.com:communityus/misc.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:communityus/scripts.git
+[submodule "gulp-tasks"]
+	path = gulp-tasks
+	url = git@github.com:communityus/gulp-tasks.git
+[submodule "app"]
+	path = app
+	url = git@github.com:communityus/app.git
+[submodule ".vscode"]
+	path = .vscode
+	url = git@github.com:communityus/.vscode.git
+[submodule "config"]
+	path = config
+	url = git@github.com:communityus/config.git
