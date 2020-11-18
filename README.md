@@ -1,4 +1,7 @@
-# TLE
+# TLE - The Lacuna Expance
+We reached out to JT Smith on 7/21/2019 and began discussing fun ideas we had to revive TLE Community. After a few emails JT replied saying,
+"You have my blessing to use the art assets and everything else to...bring the game back online."
+### License Stuff
 Dual license repo of The Lacuna Expance GPLv2 and MIT serated for clarity using submodules.
 
 The GPL has been for the server code and MIT for the web based client.
